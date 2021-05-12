@@ -1,0 +1,5 @@
+export const SET_CLICKED_CARD_ID = 'SET_CLICKED_CARD_ID';
+
+export const UPDATE_SCORE = 'UPDATE_SCORE';
+export const SHUFFEL_CARD = 'SHUFFEL_CARD';
+export const SET_GAME_FINISH = 'SET_GAME_FINISH';

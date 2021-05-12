@@ -1,0 +1,33 @@
+.container {
+  margin: 2rem;
+}
+
+.game-title {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: #80516c;
+
+}
+
+.game-rule {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: #d33a93;
+}
+
+.score-title {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: #80516c;
+}
+
+.message {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: #24c259;
+
+}
